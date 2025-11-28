@@ -5,7 +5,6 @@ Nós fomos contratados como cientistas de dados de uma empresa imobiliária. Nos
 Para atendermos essas demandas, foi disponibilizado um board no Trello com as etapas e tarefas do projeto que devemos realizar. Também foi disponibilizada uma base de dados, que utilizaremos para desenvolver o projeto.
 
 Trello do projeto:
-
 https://trello.com/c/KtmGAwP3/5-projeto
 
 📁 Base de Dados
@@ -18,12 +17,16 @@ Nessa base, nós vamos encontrar:
 - Condomínio
 - IPTU
 - Características do imóvel:
-    ~ Quantidade de quartos
-    ~ Suítes
-    ~ Vagas de garagem
-    ~ Tamanho
-    ~ Tipo do imóvel
+
+  ~ Quantidade de quartos
+
+  ~ Suítes
+
+  ~ Vagas de garagem
+
+  ~ Tamanho
+
+  ~ Tipo do imóvel
 
 Link para acessar a base de dados:
-
 https://raw.githubusercontent.com/KazuyaGIH/Pandas---Projeto-Imobili-rio-/main/aluguel.csv
